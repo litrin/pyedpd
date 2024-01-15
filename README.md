@@ -6,7 +6,7 @@ A daemon for EMON files automation seeking and processing by pyedp tool
   - Download source codes, go to source code's directory and run windows cmd : go build -ldflags="-s -w"
   
 - Hardware requirments:
-  - Windows host with MS office (intenal IT buid Win7/Win10 is suggested) or Linux.
+  - Windows host with MS office or Linux.
   - Linux version only support to generate csv files.
   - At least 4G memory for each hyper-threads.
   - Ruby runtime enviroments and EDP are pre-installed in the host.  
