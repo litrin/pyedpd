@@ -7,9 +7,7 @@ A daemon for EMON files automation seeking and processing by pyedp tool
   
 - Hardware requirments:
   - Windows host with MS office or Linux.
-  - Linux version only support to generate csv files.
   - At least 4G memory for each hyper-threads.
-  - Ruby runtime enviroments and EDP are pre-installed in the host.  
   
 - edpd setup
   - Copy edpd.exe to the EDP's directory on the edpd host. 
